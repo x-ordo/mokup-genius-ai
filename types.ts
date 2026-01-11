@@ -25,3 +25,9 @@ export interface GeneratedImage {
 }
 
 export type ImageSize = '1K' | '2K' | '4K';
+
+export interface EditorHistory {
+  past: string[];
+  present: string;
+  future: string[];
+}
