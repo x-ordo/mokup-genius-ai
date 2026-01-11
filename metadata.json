@@ -1,0 +1,5 @@
+{
+  "name": "MockupGenius AI",
+  "description": "Upload logos, generate product mockups, and edit them with Gemini AI.",
+  "requestFramePermissions": []
+}
